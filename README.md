@@ -1,5 +1,6 @@
 # 🚀 AI-Powered Instagram Analytics & Growth Strategist
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://instagram-analytics-expert.streamlit.app/)
 An intelligent, Streamlit-based web application that acts as an elite Instagram Growth Strategist. It leverages **Google Gemini API** to analyze post performance, generate viral hooks/captions, and extract growth insights from screenshots.
 
 ## ✨ Key Features
