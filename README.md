@@ -1,3 +1,4 @@
+- This is my first project.
 # 🚀 AI-Powered Instagram Analytics & Growth Strategist
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://instagram-analytics-expert.streamlit.app/)
@@ -18,3 +19,6 @@ An intelligent, Streamlit-based web application that acts as an elite Instagram 
 - **AI Engine:** Google Gemini API (`gemini-3.6-flash`)
 - **Data Processing:** Pandas, Plotly
 - **Language:** Python.
+
+<br>
+Author ~ Harivansh
